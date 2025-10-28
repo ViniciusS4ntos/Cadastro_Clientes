@@ -1,0 +1,25 @@
+# Byte-compiled / cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Banco de dados local (caso use arquivos SQL de backup)
+*.sql
+
+# Pastas do ambiente virtual (caso exista)
+venv/
+env/
+
+# Arquivos do editor
+*.swp
+*.swo
+.idea/
+.vscode/

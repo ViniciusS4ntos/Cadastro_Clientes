@@ -34,9 +34,6 @@ Ideal para estudos sobre integração de Python com banco de dados e CRUD (Creat
  ┃ ┣ 📜 conexao.py
  ┃ ┣ 📜 cadastrar.py
  ┃ ┣ 📜 main.py
- ┃ ┣ 📜 editar.py
- ┃ ┣ 📜 remover.py
- ┃ ┗ 📜 listar.py
  ┣ 📂 imagens/
  ┃ ┣ 🖼️ principal.PNG
  ┃ ┗ 🖼️ parteDois.PNG

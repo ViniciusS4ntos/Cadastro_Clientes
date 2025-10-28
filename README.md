@@ -2,8 +2,6 @@
 
 ![Tela do Sistema](img/principal.PNG)
 
-![Tela do Sistema Parte 2](img/parteDois.PNG)
-
 
 Um sistema simples de **cadastro de clientes**, desenvolvido com **Python** e **MySQL**.  
 Ideal para estudos sobre integração de Python com banco de dados e CRUD (Create, Read, Update, Delete).

@@ -1,7 +1,7 @@
 # 🧾 Sistema de Cadastro de Clientes
 
-<img src=".//img/principal.PNG" alt="Tela do Sistema" width="600">
-<img src=".//img/parteDois.PNG" alt="Tela do Sistema parte dois" width="500">
+<img src="../img/principal.PNG" alt="Tela do Sistema" width="600">
+<img src="../img/parteDois.PNG" alt="Tela do Sistema parte dois" width="500">
 
 Um sistema simples de **cadastro de clientes**, desenvolvido com **Python** e **MySQL**.  
 Ideal para estudos sobre integração de Python com banco de dados e CRUD (Create, Read, Update, Delete).
